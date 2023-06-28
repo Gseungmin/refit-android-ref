@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Re-Fit-Spring" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/approval-please-Android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/docker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fosslight" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/personal-project-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/personal-project-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/redis" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/seminar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/slackbot" vcs="Git" />
+  </component>
+</project>
